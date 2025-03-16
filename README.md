@@ -1,2 +1,3 @@
-# NLP-TASKS
-DIGGING DEEP IN ALL OF THE NLP TASK ( THE SRESEARCHER ME)
+# TOKENIZATION
+Here i'm going through all tokenization techniques from early NLP to date,
+and implement their codes from scratch.
